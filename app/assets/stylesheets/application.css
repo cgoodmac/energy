@@ -12,6 +12,15 @@
  *= require_tree .
  */
 
+* {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+} 
+
+#container {
+  margin: auto;
+  width: 960px;
+}
+
 #map-canvas, #graph {
   height: 500px;
   width: 960px;
