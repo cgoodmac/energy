@@ -12,4 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
+//= require 'raphael-min.js'
+//= require 'morris.min.js'
+//= require 'energy.js'
